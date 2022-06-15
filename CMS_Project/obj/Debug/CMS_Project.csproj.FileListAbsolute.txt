@@ -1,0 +1,9 @@
+E:\Naveen\CMS_Project\bin\CMS_Project.dll.config
+E:\Naveen\CMS_Project\bin\CMS_Project.dll
+E:\Naveen\CMS_Project\bin\CMS_Project.pdb
+E:\Naveen\CMS_Project\obj\Debug\CMS_Project.csprojResolveAssemblyReference.cache
+E:\Naveen\CMS_Project\obj\Debug\CMS_Project.dll
+E:\Naveen\CMS_Project\obj\Debug\CMS_Project.pdb
+E:\Naveen1\Course_Management_System\CMS_Project\obj\Debug\CMS_Project.csprojResolveAssemblyReference.cache
+E:\Naveen1\Course_Management_System\CMS_Project\obj\Debug\CMS_Project.dll
+E:\Naveen1\Course_Management_System\CMS_Project\obj\Debug\CMS_Project.pdb
